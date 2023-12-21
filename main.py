@@ -1,2 +1,1 @@
-print("Hello WOrld!!")
-print("Hello welcome to git")
+print("First commit!!")
